@@ -1,0 +1,9 @@
+[submodule "gps_umd"]
+	path = gps_umd
+	url = https://github.com/ktossell/gps_umd.git
+[submodule "gazebo_ros_pkgs"]
+	path = gazebo_ros_pkgs
+	url = https://github.com/ros-simulation/gazebo_ros_pkgs.git
+[submodule "gscam"]
+	path = gscam
+	url = https://github.com/ros-drivers/gscam
