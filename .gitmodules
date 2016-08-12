@@ -7,3 +7,15 @@
 [submodule "gscam"]
 	path = gscam
 	url = https://github.com/ros-drivers/gscam
+[submodule "hector_models"]
+	path = hector_models
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_models.git
+[submodule "urg_node"]
+	path = urg_node
+	url = https://github.com/ros-drivers/urg_node.git
+[submodule "urg_c"]
+	path = urg_c
+	url = https://github.com/ros-drivers/urg_c.git
+[submodule "laser_proc"]
+	path = laser_proc
+	url = https://github.com/ros-perception/laser_proc.git
