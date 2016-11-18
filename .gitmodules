@@ -6,7 +6,7 @@
 	url = https://github.com/ros-simulation/gazebo_ros_pkgs.git
 [submodule "gscam"]
 	path = gscam
-	url = https://github.com/ros-drivers/gscam
+	url = https://github.com/bluesat/gscam.git
 [submodule "hector_models"]
 	path = hector_models
 	url = https://github.com/tu-darmstadt-ros-pkg/hector_models.git
